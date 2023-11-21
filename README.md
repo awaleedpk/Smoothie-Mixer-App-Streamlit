@@ -18,6 +18,10 @@ Create custom smoothie recipes with the Smoothie Mixer App! This Python-based we
    ```bash
    streamlit run app.py
 
+## Live Demo
+http://3.106.58.191:8501/
+   
+
 ## Screenshots
 
 ![Screenshot 1](1.png)
